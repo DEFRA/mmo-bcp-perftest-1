@@ -1,4 +1,4 @@
-# cdp-perf-test-suite-template
+# mmo-bcp-perftest-1
 
 A JMeter based test runner for the CDP Platform.
 
